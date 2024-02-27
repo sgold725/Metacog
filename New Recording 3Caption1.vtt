@@ -1,0 +1,14 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:00.000
+<span style="text-align:center"></span>
+
+00:00:08.000 --> 00:00:10.000
+VTT Format: This line should appear at 8 seconds
+
+00:00:10.500 --> 00:00:12.500 
+Create processes and develop methods that will assess students' use of metacognitive skills while solving mathematical problems. 
+
+00:00:17.000 --> 00:00:20.000 
+These two lines should appear
+with styling at <span style="color:#FF0000;font-weight: bold;">17</span> seconds!
